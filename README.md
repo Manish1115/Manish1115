@@ -113,17 +113,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🤖 AI Assistant
-- 🎮 Game Development Projects
-- 🌐 Full Stack Web Applications
-- 📊 Expense Tracker
-- 🗺️ AI Maps
-- 💬 Chat Applications
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -159,7 +148,6 @@
 - 💼 Secure a Software Engineering Internship
 - 📚 Master Data Structures & Algorithms
 - 🌍 Contribute to Open Source
-- 🎮 Publish Indie Games
 - 💡 Build a successful AI Startup
 
 ---
@@ -179,6 +167,6 @@
 ## ⚡ Fun Facts
 
 - 🤖 I enjoy building AI-powered tools.
-- 🎮 Passionate about Game Development.
+- 🎮 Passionate about Gaming and Game Development.
 - ☕ Coffee + Coding = Productivity.
 - 🌌 Always exploring new technologies.
