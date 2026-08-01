@@ -1,4 +1,4 @@
-# Hi there, I'm Manish 👋
+[# Hi there, I'm Manish 👋
 
 <h3 align="left">AI Engineer | Full Stack Developer | Game Developer | Computer Engineering Student</h3>
 
@@ -182,3 +182,4 @@
 - 🎮 Passionate about Game Development.
 - ☕ Coffee + Coding = Productivity.
 - 🌌 Always exploring new technologies.
+](https://www.linkedin.com/in/YOUR_LINKEDIN/)
