@@ -166,11 +166,11 @@
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/manish-bagul-06872a374/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:manishbagul11251125@gmail.com">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
