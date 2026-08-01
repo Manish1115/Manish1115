@@ -166,7 +166,7 @@
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/manish-bagul-06872a374/" target="_blank">
+<a href="www.linkedin.com/in/manish-bagul-06872a374/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
