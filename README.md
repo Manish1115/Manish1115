@@ -1,4 +1,4 @@
-[# Hi there, I'm Manish 👋
+# Hi there, I'm Manish 👋
 
 <h3 align="left">AI Engineer | Full Stack Developer | Game Developer | Computer Engineering Student</h3>
 
@@ -166,7 +166,7 @@
 
 ## 📫 Connect With Me
 
-<a href="www.linkedin.com/in/manish-bagul-06872a374/" target="_blank">
+<a href="https://www.linkedin.com/in/manish-bagul-06872a374/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -182,4 +182,3 @@
 - 🎮 Passionate about Game Development.
 - ☕ Coffee + Coding = Productivity.
 - 🌌 Always exploring new technologies.
-](https://www.linkedin.com/in/YOUR_LINKEDIN/)
